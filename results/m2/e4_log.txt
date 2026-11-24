@@ -1,0 +1,13 @@
+[21:54:50] training on 82744 development fund-days
+[21:55:11] hybrid weight on logistic: 0.0
+[21:55:14] draw 42 scored
+[21:55:17] draw 43 scored
+[21:55:20] draw 44 scored
+[21:55:23] draw 45 scored
+[21:55:27] draw 46 scored
+[21:55:30] draw 47 scored
+[21:55:33] draw 48 scored
+[21:55:36] draw 49 scored
+[21:55:40] draw 50 scored
+[21:55:43] draw 51 scored
+[21:55:43] done

@@ -1,0 +1,52 @@
+[21:29:01] development set: 82744 fund-days, 100 funds, 457 events
+[21:29:01] rep 0 fold 0: train 67025 rows, test 15719 rows
+[21:29:19]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 11s, Gradient boo 3s, hybrid+ifore 5s
+[21:29:20] rep 0 fold 1: train 64520 rows, test 18224 rows
+[21:29:36]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:29:37] rep 0 fold 2: train 64556 rows, test 18188 rows
+[21:29:54]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 3s, hybrid+ifore 5s
+[21:29:54] rep 0 fold 3: train 67016 rows, test 15728 rows
+[21:30:13]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 11s, Gradient boo 3s, hybrid+ifore 4s
+[21:30:13] rep 0 fold 4: train 67859 rows, test 14885 rows
+[21:30:30]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 3s, hybrid+ifore 4s
+[21:30:31] rep 1 fold 0: train 67026 rows, test 15718 rows
+[21:30:48]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:30:48] rep 1 fold 1: train 67031 rows, test 15713 rows
+[21:31:05]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:31:05] rep 1 fold 2: train 65376 rows, test 17368 rows
+[21:31:22]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 3s, hybrid+ifore 4s
+[21:31:23] rep 1 fold 3: train 65354 rows, test 17390 rows
+[21:31:39]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:31:40] rep 1 fold 4: train 66189 rows, test 16555 rows
+[21:31:56]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:31:57] rep 2 fold 0: train 65363 rows, test 17381 rows
+[21:32:13]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 2s, hybrid+ifore 4s
+[21:32:13] rep 2 fold 1: train 67030 rows, test 15714 rows
+[21:32:30]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 3s, hybrid+ifore 4s
+[21:32:30] rep 2 fold 2: train 67021 rows, test 15723 rows
+[21:32:47]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:32:47] rep 2 fold 3: train 66219 rows, test 16525 rows
+[21:33:05]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 11s, Gradient boo 2s, hybrid+ifore 4s
+[21:33:05] rep 2 fold 4: train 65343 rows, test 17401 rows
+[21:33:21]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 2s, hybrid+ifore 4s
+[21:33:21] rep 3 fold 0: train 65378 rows, test 17366 rows
+[21:33:38]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:33:39] rep 3 fold 1: train 67840 rows, test 14904 rows
+[21:33:55]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:33:55] rep 3 fold 2: train 66189 rows, test 16555 rows
+[21:34:12]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 2s, hybrid+ifore 4s
+[21:34:12] rep 3 fold 3: train 65354 rows, test 17390 rows
+[21:34:28]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:34:29] rep 3 fold 4: train 66215 rows, test 16529 rows
+[21:34:45]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 2s, hybrid+ifore 4s
+[21:34:46] rep 4 fold 0: train 67032 rows, test 15712 rows
+[21:35:03]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:35:03] rep 4 fold 1: train 63704 rows, test 19040 rows
+[21:35:20]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 2s, hybrid+ifore 4s
+[21:35:20] rep 4 fold 2: train 67035 rows, test 15709 rows
+[21:35:36]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 2s, hybrid+ifore 4s
+[21:35:36] rep 4 fold 3: train 67022 rows, test 15722 rows
+[21:35:53]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 10s, Gradient boo 3s, hybrid+ifore 4s
+[21:35:54] rep 4 fold 4: train 66183 rows, test 16561 rows
+[21:36:10]     fit times: Logistic 0s, Logistic 0s, Gaussian Nai 0s, Decision tre 0s, Random fores 9s, Gradient boo 2s, hybrid+ifore 4s
+[21:36:10] done

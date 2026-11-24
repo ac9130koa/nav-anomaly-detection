@@ -1,0 +1,71 @@
+[21:36:15] rep 0 fold 0: holding out stale_price
+[21:36:34] rep 0 fold 0: holding out missed_split
+[21:36:51] rep 0 fold 0: holding out missed_dividend
+[21:37:09] rep 0 fold 0: holding out expense_error
+[21:37:25] rep 0 fold 0: holding out stale_partial
+[21:37:41] rep 0 fold 0: holding out accrual_drift
+[21:37:57] rep 0 fold 0: holding out realistic pair (stale_partial + accrual_drift)
+[21:38:11] rep 0 fold 1: holding out stale_price
+[21:38:28] rep 0 fold 1: holding out missed_split
+[21:38:44] rep 0 fold 1: holding out missed_dividend
+[21:39:00] rep 0 fold 1: holding out expense_error
+[21:39:16] rep 0 fold 1: holding out stale_partial
+[21:39:32] rep 0 fold 1: holding out accrual_drift
+[21:39:46] rep 0 fold 1: holding out realistic pair (stale_partial + accrual_drift)
+[21:40:02] rep 0 fold 2: holding out stale_price
+[21:40:17] rep 0 fold 2: holding out missed_split
+[21:40:33] rep 0 fold 2: holding out missed_dividend
+[21:40:49] rep 0 fold 2: holding out expense_error
+[21:41:05] rep 0 fold 2: holding out stale_partial
+[21:41:21] rep 0 fold 2: holding out accrual_drift
+[21:41:37] rep 0 fold 2: holding out realistic pair (stale_partial + accrual_drift)
+[21:41:52] rep 0 fold 3: holding out stale_price
+[21:42:08] rep 0 fold 3: holding out missed_split
+[21:42:25] rep 0 fold 3: holding out missed_dividend
+[21:42:41] rep 0 fold 3: holding out expense_error
+[21:42:57] rep 0 fold 3: holding out stale_partial
+[21:43:13] rep 0 fold 3: holding out accrual_drift
+[21:43:29] rep 0 fold 3: holding out realistic pair (stale_partial + accrual_drift)
+[21:43:44] rep 0 fold 4: holding out stale_price
+[21:43:59] rep 0 fold 4: holding out missed_split
+[21:44:16] rep 0 fold 4: holding out missed_dividend
+[21:44:32] rep 0 fold 4: holding out expense_error
+[21:44:49] rep 0 fold 4: holding out stale_partial
+[21:45:05] rep 0 fold 4: holding out accrual_drift
+[21:45:20] rep 0 fold 4: holding out realistic pair (stale_partial + accrual_drift)
+[21:45:35] rep 1 fold 0: holding out stale_price
+[21:45:52] rep 1 fold 0: holding out missed_split
+[21:46:08] rep 1 fold 0: holding out missed_dividend
+[21:46:24] rep 1 fold 0: holding out expense_error
+[21:46:40] rep 1 fold 0: holding out stale_partial
+[21:46:56] rep 1 fold 0: holding out accrual_drift
+[21:47:11] rep 1 fold 0: holding out realistic pair (stale_partial + accrual_drift)
+[21:47:26] rep 1 fold 1: holding out stale_price
+[21:47:42] rep 1 fold 1: holding out missed_split
+[21:47:59] rep 1 fold 1: holding out missed_dividend
+[21:48:16] rep 1 fold 1: holding out expense_error
+[21:48:32] rep 1 fold 1: holding out stale_partial
+[21:48:49] rep 1 fold 1: holding out accrual_drift
+[21:49:05] rep 1 fold 1: holding out realistic pair (stale_partial + accrual_drift)
+[21:49:20] rep 1 fold 2: holding out stale_price
+[21:49:35] rep 1 fold 2: holding out missed_split
+[21:49:51] rep 1 fold 2: holding out missed_dividend
+[21:50:07] rep 1 fold 2: holding out expense_error
+[21:50:22] rep 1 fold 2: holding out stale_partial
+[21:50:38] rep 1 fold 2: holding out accrual_drift
+[21:50:53] rep 1 fold 2: holding out realistic pair (stale_partial + accrual_drift)
+[21:51:08] rep 1 fold 3: holding out stale_price
+[21:51:23] rep 1 fold 3: holding out missed_split
+[21:51:39] rep 1 fold 3: holding out missed_dividend
+[21:51:55] rep 1 fold 3: holding out expense_error
+[21:52:11] rep 1 fold 3: holding out stale_partial
+[21:52:26] rep 1 fold 3: holding out accrual_drift
+[21:52:41] rep 1 fold 3: holding out realistic pair (stale_partial + accrual_drift)
+[21:52:55] rep 1 fold 4: holding out stale_price
+[21:53:12] rep 1 fold 4: holding out missed_split
+[21:53:29] rep 1 fold 4: holding out missed_dividend
+[21:53:45] rep 1 fold 4: holding out expense_error
+[21:54:02] rep 1 fold 4: holding out stale_partial
+[21:54:18] rep 1 fold 4: holding out accrual_drift
+[21:54:34] rep 1 fold 4: holding out realistic pair (stale_partial + accrual_drift)
+[21:54:48] done

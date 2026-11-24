@@ -1,0 +1,10 @@
+,0
+stale_price,73
+stale_partial,81
+missed_split,74
+missed_dividend,69
+expense_error,86
+accrual_drift,74
+10-50 bps,188
+<10 bps,82
+>=50 bps,187

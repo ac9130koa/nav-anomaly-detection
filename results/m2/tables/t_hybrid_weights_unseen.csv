@@ -1,0 +1,8 @@
+config,mean,min,max
+accrual_drift,0.0,0.0,0.0
+expense_error,0.0,0.0,0.0
+missed_dividend,0.3,0.0,1.0
+missed_split,0.0,0.0,0.0
+realistic pair (stale_partial + accrual_drift),0.0,0.0,0.0
+stale_partial,0.0,0.0,0.0
+stale_price,0.0,0.0,0.0

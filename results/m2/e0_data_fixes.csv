@@ -1,0 +1,6 @@
+fix,fund_days_affected,median_shift_bps
+benchmark total return: SPY ex-dividend days x 52 us_equity funds,1092.0,32.157221206581355
+benchmark total return: AGG ex-dividend days x 40 bond funds,2520.0,29.378531073446325
+benchmark total return: EFA ex-dividend days x 34 intl funds,408.0,163.00703880699368
+daily-accrual bond mutual funds (13): monthly income left out of NAV return,842.0,30.303030303030305
+share classes grouped: 126 funds -> 112 portfolio groups,,

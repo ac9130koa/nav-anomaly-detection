@@ -1,0 +1,7 @@
+funds,period,fund_days,error_days,events,funds_n
+development funds,embargo,2087,29,13,100
+development funds,future,41416,400,184,100
+development funds,past,82744,877,457,100
+holdout funds,embargo,541,6,5,26
+holdout funds,future,10749,167,67,26
+holdout funds,past,21523,210,109,26
